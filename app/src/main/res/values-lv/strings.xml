@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="add_choco">Pievienot šokolādi?</string>
+    <string name="add_cream">Pievienot putukrējumu?</string>
+    <string name="chocolate">Šokolāde</string>
+    <string name="name">Vārds</string>
+    <string name="order">Pasūtīt</string>
+    <string name="quantity">Daudzums</string>
+    <string name="thank_you">Paldies!</string>
+    <string name="too_few">Nevar pasūtīt mazāk par 1 kafiju</string>
+    <string name="too_much">Nevar pasūtīt vairāk kā 100 kafijas</string>
+    <string name="toppings">Papildus</string>
+    <string name="total">Kopā: $</string>
+    <string name="wh_cream">Putukrējums</string>
+    <string name="email_subject">"Pasūtītājs: "</string>
+</resources>
